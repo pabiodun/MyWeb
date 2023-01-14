@@ -90,6 +90,9 @@
   <ItemGroup>
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
+    <Content Include="Images\himg3.jpeg" />
+    <Content Include="Images\PaulR.jpg" />
+    <Content Include="Images\PJ.png" />
     <Content Include="Images\profile.jpg" />
     <Content Include="Images\apple-touch-icon.png" />
     <Content Include="Images\favicon.png" />
