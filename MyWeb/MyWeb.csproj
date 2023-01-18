@@ -92,7 +92,9 @@
     <Content Include="Global.asax" />
     <Content Include="Images\himg3.jpeg" />
     <Content Include="Images\PaulR.jpg" />
+    <Content Include="Images\pic2.png" />
     <Content Include="Images\PJ.png" />
+    <Content Include="Images\portfolio\paul.jpg" />
     <Content Include="Images\profile.jpg" />
     <Content Include="Images\apple-touch-icon.png" />
     <Content Include="Images\favicon.png" />
@@ -110,6 +112,8 @@
     <Content Include="Images\portfolio\portfolio-details-2.jpg" />
     <Content Include="Images\portfolio\portfolio-details-3.jpg" />
     <Content Include="Images\profile-img.jpg" />
+    <Content Include="Images\PTBimg.png" />
+    <Content Include="Images\SnI.png" />
     <Content Include="Images\testimonials\testimonials-1.jpg" />
     <Content Include="Images\testimonials\testimonials-2.jpg" />
     <Content Include="Images\testimonials\testimonials-3.jpg" />
