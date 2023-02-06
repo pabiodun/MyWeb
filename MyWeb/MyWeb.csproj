@@ -90,7 +90,11 @@
   <ItemGroup>
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
+    <Content Include="Images\Cyril.jpg" />
     <Content Include="Images\himg3.jpeg" />
+    <Content Include="Images\Kenny.jpg" />
+    <Content Include="Images\Otunba.jpg" />
+    <Content Include="Images\PaulM.jpg" />
     <Content Include="Images\PaulR.jpg" />
     <Content Include="Images\pic2.png" />
     <Content Include="Images\PJ.png" />
@@ -112,13 +116,20 @@
     <Content Include="Images\portfolio\portfolio-details-2.jpg" />
     <Content Include="Images\portfolio\portfolio-details-3.jpg" />
     <Content Include="Images\profile-img.jpg" />
+    <Content Include="Images\Profile1.jpg" />
+    <Content Include="Images\Profile2.jpeg" />
+    <Content Include="Images\Profile3.jpeg" />
+    <Content Include="Images\PTBcs.jpg" />
     <Content Include="Images\PTBimg.png" />
+    <Content Include="Images\PTBreact.jpg" />
     <Content Include="Images\SnI.png" />
     <Content Include="Images\testimonials\testimonials-1.jpg" />
     <Content Include="Images\testimonials\testimonials-2.jpg" />
     <Content Include="Images\testimonials\testimonials-3.jpg" />
     <Content Include="Images\testimonials\testimonials-4.jpg" />
     <Content Include="Images\testimonials\testimonials-5.jpg" />
+    <Content Include="Images\Tolu.jpg" />
+    <Content Include="Images\Wale.jpg" />
     <Content Include="Js\aos\aos.css" />
     <Content Include="Js\aos\aos.js" />
     <Content Include="Js\bootstrap-icons\bootstrap-icons.css" />
