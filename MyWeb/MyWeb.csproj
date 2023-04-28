@@ -92,6 +92,7 @@
     <Content Include="Global.asax" />
     <Content Include="Images\Cyril.jpg" />
     <Content Include="Images\himg3.jpeg" />
+    <Content Include="Images\images %285%29.jpg" />
     <Content Include="Images\Kenny.jpg" />
     <Content Include="Images\Otunba.jpg" />
     <Content Include="Images\p.jpg" />
@@ -119,7 +120,6 @@
     <Content Include="Images\profile-img.jpg" />
     <Content Include="Images\Profile1.jpg" />
     <Content Include="Images\Profile2.jpeg" />
-    <Content Include="Images\Profile3.jpeg" />
     <Content Include="Images\PTBcs.jpg" />
     <Content Include="Images\PTBimg.png" />
     <Content Include="Images\PTBreact.jpg" />
