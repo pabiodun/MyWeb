@@ -90,7 +90,9 @@
   <ItemGroup>
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
+    <Content Include="Images\BirthdayDiary.png" />
     <Content Include="Images\Cyril.jpg" />
+    <Content Include="Images\ebill 2.jpg" />
     <Content Include="Images\himg3.jpeg" />
     <Content Include="Images\images %285%29.jpg" />
     <Content Include="Images\Kenny.jpg" />
